@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Heya 👋, I'm Rion Talukder</h1>
 <h3 align="center">An undergrad Software Engineer.</h3>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
