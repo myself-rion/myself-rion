@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,figma,html,css,tailwind,javascript,typescript,react,redux,nextjs,expressjs,firebase,appwrite,nodejs,mysql,postgres,mongodb,git&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,figma,html,css,tailwind,javascript,react,redux,appwrite,mysql,git" />
   </a>
 </p>
 
