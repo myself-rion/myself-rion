@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGLiSCdouzp1w/profile-displaybackgroundimage-shrink_350_1400/0/1715507320783?e=1721260800&v=beta&t=0v5I0QslrdKdWo0LWE1vAcSw0OfDi4x7SUsJ2C5oa0s)
+![MasterHead](./banner.png)
 <h1 align="center">Hello, I'm Rion Talukder.</h1>
 
 ![age](https://img.shields.io/badge/age-24-red)
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,figma,html,css,tailwind,javascript,react,redux,appwrite,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,tailwind,javascript,react,redux,nextjs,appwrite,nodejs,mysql,postgres,git" />
   </a>
 </p>
 
