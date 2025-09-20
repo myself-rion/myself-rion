@@ -1,7 +1,7 @@
 ![MasterHead](./banner.png)
 <h1 align="center">Hello, I'm Rion Talukder.</h1>
 
-![age](https://img.shields.io/badge/age-24-red)
+![age](https://img.shields.io/badge/age-25-red)
 ![profile views](https://komarev.com/ghpvc/?username=myself-rion)
 <h3 align="left">Person with a love for clean code and 🍵.</h3>
 
