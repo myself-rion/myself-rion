@@ -19,11 +19,13 @@
 - ⚡ Fun fact **I'm a Photographer as well.**
 
 
-### Connect with me:
+### My coding and blogging profiles:
 <p align="left">
 <a href="https://www.leetcode.com/myself-rion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="myself-rion" height="25" width="35" /></a>
-<a href="https://linkedin.com/in/riontalukder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riontalukder" height="25" width="35" /></a>
-<a href="https://instagram.com/myself__rion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myself__rion" height="25" width="35" /></a>
+<a href="https://dev.to/riont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="riont" height="30" width="40" /></a>
+<a href="https://hashnode.com/@riont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@riont" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/riont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="riont" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/riont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="riont" height="30" width="40" /></a>
 </p>
 <br>
 
