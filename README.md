@@ -39,14 +39,3 @@
     <img src="https://skillicons.dev/icons?i=cpp,java,python,figma,html,css,tailwind,javascript,typescript,react,redux,nextjs,appwrite,nodejs,express,postgres,mongodb,git&perline=9" />
   </a>
 </p>
-
-
----
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=myself-rion&show_icons=true&locale=en&layout=donut&theme=github_dark&hide_border=true" alt="myself-rion" height="250"/></p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myself-rion&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="myself-rion"  height="200" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=myself-rion&theme=github_dark&hide_border=true&text_color=#010101" alt="myself-rion" height="200"/>
-</p>
